@@ -1,2 +1,2 @@
 # bookstore_projekat
-# xampp +  http://localhost/Bookstoreprojekat/crud/index.php
+# to run - copy and paste "bookstore_projekat-master" folder to xampp -> htdocs + type in browser : http://localhost/bookstore_projekat-master/crud/index.php
